@@ -132,6 +132,7 @@ def save_scan_results_to_csv(parsed_results, exploitable_csv_file, non_exploitab
                         'Vulnerability IDs': ','.join(exploitable_vulns)
                     })
 
+
                     '''non_exploitable_writer.writerow({
                         'IP Address': ip_address,
                         'Port': port_info['port'],
