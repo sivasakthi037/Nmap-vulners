@@ -169,7 +169,6 @@ def save_scan_results_to_csv(parsed_results, exploitable_csv_file, non_exploitab
 def save_complete_results_to_csv(xml_file, complete_csv_file):
     """
     Save the output from Nmap scan scripts to a CSV file.
-    
     Args:
     - xml_file: Path to the XML file containing the Nmap scan results
     - complete_csv_file: Path to the CSV file to save the output
