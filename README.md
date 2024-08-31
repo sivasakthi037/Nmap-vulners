@@ -1,4 +1,4 @@
-# 🔍 Nmap-vulners: A Python Script TO Automate Vulnerability Scanning and Reporting using Nmap Vulners Script
+# 🔍 Nmap-vulners: A Python Script To Automate Vulnerability Scanning and Reporting using Nmap Vulners Script
 
 ## Overview
 
